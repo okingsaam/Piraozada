@@ -62,6 +62,23 @@ npm run dev
 # A aplicação estará disponível em http://localhost:5173
 ```
 
+### Demonstração no celular (mesmo Wi-Fi)
+
+```bash
+# Iniciar modo demo mobile
+npm run demo:mobile
+```
+
+Depois de iniciar:
+- Descubra o IP da sua máquina (ex.: `ipconfig` no Windows)
+- No celular, abra: `http://SEU_IP:4173`
+- Exemplo: `http://192.168.0.15:4173`
+
+Checklist rápido para reunião:
+- PC e celular na mesma rede Wi-Fi
+- Liberar firewall se aparecer aviso do Windows
+- Deixar carregador conectado para evitar queda durante a demo
+
 ### Build
 
 ```bash

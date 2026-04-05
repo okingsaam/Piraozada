@@ -173,7 +173,7 @@ Interface totalmente responsiva:
 
 Este projeto está sob licença MIT.
 
-## 👨‍💻 Desenvolvido com ❤️
+## 👨‍💻 Desenvolvido com pelo King Sam
 
 Pirãozada - Sistema de Gestão Operacional para Lanchonetes
 

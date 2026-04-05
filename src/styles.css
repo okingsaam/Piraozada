@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #c8860a;
+  --color-secondary: #3d1c02;
+  --color-accent: #f5c842;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Inter', sans-serif;
+  background: linear-gradient(135deg, #fff8e8 0%, #ffe9b8 100%);
+  color: #3d1c02;
+}
+
+#root {
+  min-height: 100vh;
+}
